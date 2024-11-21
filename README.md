@@ -1,7 +1,7 @@
 # RL-Homework-2
 #  Overview
 The goal of this homework is to dynamically control a 7-DoF robot manipulator using Docker and ROS2 with RViz and Gazebo, ensuring it follows a desired trajectory in both joint space and operational space. The repository contains instructions to download the folders from GitHub, launch the robot, and run the controller.
-# Set-up  
+# Setup  
 Open the terminal, launch the container, and navigate to the directory where you want to download the folder. Then, clone the repository with:
 ```
 git clone https://github.com/choppyS/RL24---Homework2.git
@@ -69,6 +69,3 @@ The code provides the option to choose between a circular or rectilinear traject
 The controllers provided are two: one in joint space, implemented as a PD+ controller, and one in operational space, implemented as an Inverse Dynamics controller. To select between the two, you need to:
 `press 1 or 2 then enter`
 
-
-# RL24---Homework2
-# RL24---Homework2
